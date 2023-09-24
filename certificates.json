@@ -1,0 +1,39 @@
+{
+    "certificates": [
+        {
+            "name": "English Speaking - B2-C1",
+            "issuer": "Emmersion",
+            "url": null
+        },        
+        {
+            "name": "Scrum Foundation Professional Certificate - SFPC™",
+            "issuer": "Certiprof",
+            "url": "https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684"
+        },
+        {
+            "name": "Survey Contributor of The Agile Adoption Report 2022",
+            "issuer": "Certiprof",
+            "url": "https://www.credly.com/badges/9a6debfd-3c6e-48c2-a171-2e11ac7899ed"
+        },
+        {
+            "name": "Jira Fundamentals Certificate",
+            "issuer": "Atlassian",
+            "url": "https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq"
+        },
+        {
+            "name": "First Philippine National Code Challenge Certificate",
+            "issuer": "Atlassian",
+            "url": "https://drive.google.com/file/d/11CJNqr6AKAcvo2OcQ4aFQv71Lgcg5zTW/view"
+        },
+        {
+            "name": "Effective Listening Certificate",
+            "issuer": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/certificates/fc585e434a57658088d7115b98088b21beb136e11c87787367415472d79e1d04"
+        },
+        {
+            "name": "Developing Your Emotional Intelligence Certificate",
+            "issuer": "Project Management Institute",
+            "url": "https://www.linkedin.com/learning/certificates/aadc7b0959db27294af010506590462bd4e2e7c62bcdf78c1cbe68318e7d55f9"
+        }
+    ]
+}

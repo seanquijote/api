@@ -1,0 +1,18 @@
+{
+    "firstName": "Sean",
+    "lastName": "Quijote",
+    "email": "seanquijote",
+    "currentJobTitle": "Full Stack Developer",
+    "socialUrls": {
+        "linkedIn": "https://www.linkedin.com/in/seanquijote/",
+        "gitHub": "https://github.com/seanquijote"
+    },
+    "loadingMessages": [
+        "full stack developer",
+        "tossed a coin to a witcher",
+        "may the forks be with you",
+        "/* todo Insert more witty messages */",
+        "oh, you're still here?",
+        "let's go back"
+    ]
+}

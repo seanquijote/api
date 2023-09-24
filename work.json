@@ -1,0 +1,92 @@
+{
+    "work": [
+        {
+            "company": "8x8",
+            "positions": [
+                {
+                    "title": "SPAC Information Technology Inc.",
+                    "startDate": "May 2023",
+                    "endDate": "Present",
+                    "responsilibilities": [
+                        "Understand, interpret, and clarify functional requirements as well as technical requirements for product features.",
+                        "Work with Product Management and Engineering Leadership to implement software to specification.",
+                        "Collaborate and contribute to architecture and design decisions driving product direction.",
+                        "Support applications all the way to production."
+                    ]
+                }
+            ],
+            "url": "https://www.8x8.com/"
+        },
+        {
+            "company": "SPAC Information Technology Inc.",
+            "positions": [
+                {
+                    "title": "Java Developer/Support",
+                    "startDate": "Aug. 2022",
+                    "endDate": "Feb. 2023",
+                    "responsilibilities": [
+                        "Resolve incidents and problem tickets as reported by the client team.",
+                        "Proactively manage the maintenance of the infrastructure/technology For Java",
+                        "Coordinate with cross-functional and cross-technical groups in the completion of maintenance or project activities.",
+                        "Apply configuration changes and required patches based on approved requirements and specifications.",
+                        "Implement provisioning requests as required by the client or based on project plans.",
+                        "Perform quality assurance activities for the technologies being managed.",
+                        "Apply client-pecific methods and tools for carrying out any support or project deliverables."
+                    ]
+                }
+            ],
+            "url": "https://www.it-spac.com/"
+        },
+        {
+            "company": "NextIX Inc.",
+            "positions": [
+                {
+                    "title": "Software Developer II",
+                    "startDate": "May 2022",
+                    "endDate": "Aug. 2022",
+                    "responsilibilities": [
+                        "Developed and deployed multiple ethereum smart contracts (ERC-721) to a third-party RPC provider using Solidity.",
+                        "Built APIs in a microservices architecture using Express.js and Quarkus, a Kubernetes native Java framework.",
+                        "Utilized Azure Key Vault for building APIs with database data encryption and decryption using Express.js, and Django REST"
+                    ]
+                },
+                {
+                    "title": "Software Developer I",
+                    "startDate": "Oct. 2018",
+                    "endDate": "May. 2022",
+                    "responsilibilities": [
+                        "Built and deployed a native Java desktop application to the Microsoft Store.",
+                        "Developed an automated trading bot that is integrated with the APIs of multiple crypto exchanges using Laravel.",
+                        "Conducted market-making on multiple market pairs within several crypto exchanges.",
+                        "Collaborated with a Huawei sales/marketing representative on the configuration and integration of Huawei Cloud's Object Storage Solution.",
+                        "Built an API collection which analyzes, evaluates, and verifies user-submitted documents using Express.js, MongoDB, and Google Vision API.",
+                        "Integrated several third-party storage and payment solutions such as Dropbox, PayPal, and DragonPay using Laravel.",
+                        "Worked overseas with a foreign team on the Philippine Identification System's Iris and Face capture device API using C#."
+                    ]
+                }
+            ],
+            "url": "https://nextix.co/"
+        },
+        {
+            "company": "Lexmark International, Inc.",
+            "positions": [
+                {
+                    "title": "Firmware Quality Assurance Intern",
+                    "startDate": "Oct. 2018",
+                    "endDate": "May. 2022",
+                    "responsilibilities": [
+                        "Maintain the FW revisions and statuses of multiple prototype printers.",
+                        "Deliver daily performance reports, updates, and breakdowns on prototype printers.",
+                        "Conduct weekly and monthly office supply and equipment inventory.",
+                        "Worked with different FW QA and FW development teams that are delegated to specific printer components and features.",
+                        "Perform specific QA test procedures on several prototype printer components and features.",
+                        "Organize and report different stable and failed builds from FW developer teams using Jenkins",
+                        "Transport multiple types of prototype printers to and from different teams.",
+                        "Built two internal tools to further enhance the productivity of upcoming interns."
+                    ]
+                }
+            ],
+            "url": "https://www.lexmark.com/en_ph.html"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "projects": [
+        {
+            "name": "Safeway Microservices",
+            "description": "REST API microservices",
+            "technologies": [
+                "Java",
+                "REST API",
+                "SpringBoot",
+                "JUnit",
+                "Azure"
+            ],
+            "url": "https://www.safeway.com/"
+        },
+        {
+            "name": "Philippine Identification System - Iris and Face Capture",
+            "description": "Philippine national ID iris and face capture device integration.",
+            "technologies": [
+                "C#",
+                ".NET Framework",
+                "REST API",
+                "Iris Capture Device",
+                "Webcam and Iris Capture SDK"
+            ],
+            "url": null
+        },
+        {
+            "name": "OVCode Web Portal",
+            "description": "Website for authentication and verification of digital files and physical documents or products.",
+            "technologies": [
+                "Laravel",
+                "Materialize",
+                "jQuery",
+                "Apache",
+                "REST API",
+                "AWS"
+            ],
+            "url": "https://ovcode.com/"
+        },
+        {
+            "name": "OVCode Desktop App",
+            "description": "Desktop application for authentication and verification of digital files and physical documents or products.",
+            "technologies": [
+                "Java",
+                "REST API",
+                "AWS"
+            ],
+            "url": "https://apps.microsoft.com/store/detail/ovcode/9P2TLM03M56X"
+        },
+        {
+            "name": "OVCode OCR Service",
+            "description": "REST APIs with optical character recognition features integrated in the OVCode mobile application.",
+            "technologies": [
+                "Node.js",
+                "Express.js",
+                "Python",
+                "Google Cloud Vision API",
+                "REST API"
+            ],
+            "url": "https://play.google.com/store/apps/details?id=com.nextix.ovcode&pli=1"
+        },
+        {
+            "name": "Gem Circle Microservices",
+            "description": "Microservices with a pub-sub implementation for the Gem Circle Web Portal.",
+            "technologies": [
+                "Node.js",
+                "Express.js",
+                "Quarkus",
+                "Apache Kafka",
+                "Azure Event Hub"
+            ],
+            "url": "https://gemcircle.com/"
+        },
+        {
+            "name": "Gem Circle Web Portal",
+            "description": "NFT social platform and search engine.",
+            "technologies": [
+                "React",
+                "MetaMask",
+                "Axios",
+                "Web3",
+                "Truffle"
+            ],
+            "url": "https://gemcircle.com/"
+        },
+        {
+            "name": "Gem Circle Ethereum Smart Contracts",
+            "description": "ERC-721 NFT smart contracts",
+            "technologies": [
+                "Solidity",
+                "Truffle"
+            ],
+            "url": "https://ropsten.etherscan.io/address/0x0EEFa3F75083b7a580CEb885Ec090443293daA8B"
+        },
+        {
+            "name": "Cryptocurrency Market Making Bot",
+            "description": "Automated cryptocurrency trading with API integration to various exchanges such as CoinBene, LAToken, Bitker, and OOOBTC",
+            "technologies": [
+                "Laravel",
+                "Bootstrap",
+                "jQuery",
+                "Apache",
+                "REST API",
+                "AWS",
+                "Third-party crypto exchange and price-tracking APIs"
+            ],
+            "url": null
+        }
+    ]
+}
