@@ -8,10 +8,13 @@
         "gitHub": "https://github.com/seanquijote"
     },
     "loadingMessages": [
-        "full stack developer",
+        "full-stack developer",
+        "back-end enjoyer",
+        "front-end padawan",
+        "casual gym rat",
         "tossed a coin to a witcher",
         "may the forks be with you",
-        "/* todo Insert more witty messages */",
+        "/* TODO: Insert more witty strings */",
         "oh, you're still here?",
         "let's go back"
     ]
