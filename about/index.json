@@ -1,5 +1,12 @@
 {
-    "introduction": "I am a full-stack developer with a strong background in developing robust and scalable web applications. With 4+ years of experience in the industry, I have successfully delivered end-to-end solutions for various clients, ranging from startups to established enterprises.",
+    "introduction": [
+        "I am a full-stack developer with a strong background in developing robust and scalable web applications. With 4+ years of experience in the industry, I have successfully delivered end-to-end solutions for various clients, ranging from startups to established enterprises.",
+        "I am a lifelong learner, always seeking opportunities to expand my knowledge and skill set. I am open to new challenges and thrive in dynamic environments that encourage growth and innovation."
+    ],
+    "programming": [
+        "My expertise lies in both front-end and back-end technologies, including JavaScript, HTML/CSS, React, Node.js, Java, C#, and databases like MongoDB and MySQL. I am well-versed in agile methodologies and thrive in collaborative environments, working closely with cross-functional teams to deliver high-quality software solutions.",
+        "Throughout my career, I have developed a keen eye for detail, ensuring clean and maintainable code that follows best practices. I enjoy tackling complex problems and finding innovative solutions, constantly keeping up with the latest trends and advancements in the tech industry."
+    ],
     "hobbies": "When I'm not busy with work, I like to work dive in PC building, and gaming. Tekken and Monster Hunter are the only two videogame franchises that I am deeply into. Although I must admit that I rarely play games nowadays since I prioritize work. For my  creative outlets, I dabble in cinematography and video editing as much as I can then post them on YouTube.",
     "education": {
         "school": "Cebu Technological University - Main Campus",
