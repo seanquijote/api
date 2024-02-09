@@ -1,12 +1,38 @@
 {
     "projects": [
         {
+            "name": "8x8 Connect",
+            "description": "A no-code, multi-channel communications platform to manage SMS, voice, and chat app campaigns, automate millions of messages, and receive real-time reports and analytics.",
+            "language": "JavaScript",
+            "technologies": [
+                "Node.js",
+                "EggJS",
+                "Vue.js",
+                "REST API",
+                "AWS"
+            ],
+            "url": "https://www.8x8.com/products/apis/8x8-connect"
+        },
+        {
+            "name": "8x8 Converse",
+            "description": "A chat-based customer service platform that supports all the Chat Apps channels out of the box. Engage with your customers over WhatsApp, Viber, WeChat, Zalo and more, easily and instantly.",
+            "language": "JavaScript",
+            "technologies": [
+                "Node.js",
+                "EggJS",
+                "Vue.js",
+                "REST API",
+                "AWS"
+            ],
+            "url": "https://www.8x8.com/products/apis/chat-apps/8x8-converse"
+        },
+        {
             "name": "Safeway Microservices",
             "description": "REST API microservices",
+            "language": "Java",
             "technologies": [
-                "Java",
-                "REST API",
                 "SpringBoot",
+                "REST API",
                 "JUnit",
                 "Azure"
             ],
@@ -15,8 +41,8 @@
         {
             "name": "Philippine Identification System - Iris and Face Capture",
             "description": "Philippine national ID iris and face capture device integration.",
+            "language": "C#",
             "technologies": [
-                "C#",
                 ".NET Framework",
                 "REST API",
                 "Iris Capture Device",
@@ -27,6 +53,7 @@
         {
             "name": "OVCode Web Portal",
             "description": "Website for authentication and verification of digital files and physical documents or products.",
+            "language": "PHP",
             "technologies": [
                 "Laravel",
                 "Materialize",
@@ -40,8 +67,9 @@
         {
             "name": "OVCode Desktop App",
             "description": "Desktop application for authentication and verification of digital files and physical documents or products.",
+            "language": "Java",
             "technologies": [
-                "Java",
+                "Swing GUI",
                 "REST API",
                 "AWS"
             ],
@@ -50,6 +78,7 @@
         {
             "name": "OVCode OCR Service",
             "description": "REST APIs with optical character recognition features integrated in the OVCode mobile application.",
+            "language": "JavaScript",
             "technologies": [
                 "Node.js",
                 "Express.js",
@@ -62,10 +91,11 @@
         {
             "name": "Gem Circle Microservices",
             "description": "Microservices with a pub-sub implementation for the Gem Circle Web Portal.",
+            "language": "Java",
             "technologies": [
+                "Quarkus",
                 "Node.js",
                 "Express.js",
-                "Quarkus",
                 "Apache Kafka",
                 "Azure Event Hub"
             ],
@@ -74,6 +104,7 @@
         {
             "name": "Gem Circle Web Portal",
             "description": "NFT social platform and search engine.",
+            "language": "JavaScript",
             "technologies": [
                 "React",
                 "MetaMask",
@@ -86,6 +117,7 @@
         {
             "name": "Gem Circle Ethereum Smart Contracts",
             "description": "ERC-721 NFT smart contracts",
+            "language": "Solidity",
             "technologies": [
                 "Solidity",
                 "Truffle"
@@ -95,6 +127,7 @@
         {
             "name": "Cryptocurrency Market Making Bot",
             "description": "Automated cryptocurrency trading with API integration to various exchanges such as CoinBene, LAToken, Bitker, and OOOBTC",
+            "language": "PHP",
             "technologies": [
                 "Laravel",
                 "Bootstrap",
