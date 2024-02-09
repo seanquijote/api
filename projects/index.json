@@ -15,7 +15,7 @@
         },
         {
             "name": "8x8 Converse",
-            "description": "A chat-based customer service platform that supports all the Chat Apps channels out of the box. Engage with your customers over WhatsApp, Viber, WeChat, Zalo and more, easily and instantly.",
+            "description": "A chat-based customer service platform that supports WhatsApp, Viber, WeChat, Zalo and more out of the box.",
             "language": "JavaScript",
             "technologies": [
                 "Node.js",
